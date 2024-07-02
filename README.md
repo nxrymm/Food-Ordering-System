@@ -60,6 +60,7 @@ cd FoodOrderingSystem
 • Main Class: FoodOrderingSystem
   • Methods:
     • main(String[] args): Entry point of the application.
+   
     • initialize(): Sets up the main frame and panels.
     • createFrontPagePanel(): Creates the front page with the logo and order button.
     • createOrderingPanel(): Sets up the ordering panel with category buttons and item panels.
@@ -79,7 +80,7 @@ Mendola, Jana Dee N.
 Omison, Jamel D.
 Tamio, Riza Mae G.
 
-# Group Documentaion
+# Group Documentation
 ![Screenshot_2024-07-02-22-51-14-548_com discord](https://github.com/nxrymm/Food-Ordering-System/assets/164466808/97d63ce3-a558-417d-a87c-30127c72a927)
 
 # GDRIVE LINK FOR OVERALL DOCUMENTATION AND SOURCE CODE
