@@ -1,4 +1,4 @@
-# Food-Ordering-System
+![Screenshot (61)](https://github.com/nxrymm/Food-Ordering-System/assets/164466808/4b2224f0-d23a-4ea8-8021-1156cde9c27c)# Food-Ordering-System
 This repository contains the source code for the FoodOrderingSystem, a Java-based GUI application that allows users to order food, drinks, and desserts from a menu. The application provides a user-friendly interface for selecting items, viewing the order summary, and placing the order.
 
 # Features
@@ -33,15 +33,28 @@ Execute the FoodOrderingSystem class from your IDE.
 
 2. Navigate the Interface:
 Front Page: Click on the "ORDER NOW" button to start ordering.
+![Screenshot (61)](https://github.com/nxrymm/Food-Ordering-System/assets/164466808/87bffbf4-c4e9-47df-a679-12d08dd430b6)
+
 Ordering Panel: Select items from the Foods, Drinks, or Desserts categories by clicking the respective buttons.
 Add Items: Use the spinners to select the quantity for each item and the selected items will be added to the order summary.
 View Order Summary: The right panel shows the current order summary with total price.
 Clear Order: Click "CLEAR ALL" to reset your order.
 Place Order: Click "PLACE ORDER" to proceed to the order form.
+![Screenshot (62)](https://github.com/nxrymm/Food-Ordering-System/assets/164466808/5239dafe-8b6a-4a7b-a001-90dec591552f)
+![Screenshot (63)](https://github.com/nxrymm/Food-Ordering-System/assets/164466808/e3add00b-d1db-4b81-9266-62504a98344f)
+![Screenshot (64)](https://github.com/nxrymm/Food-Ordering-System/assets/164466808/7d644781-a4ee-4919-95ea-344862bb43a2)
+![Screenshot (65)](https://github.com/nxrymm/Food-Ordering-System/assets/164466808/adce732d-dbf3-4716-90ac-7303e28a93de)
 
-3. Complete the Order Form:
+4. Complete the Order Form:
 Fill in your name, contact number, and address.
+![Screenshot (66)](https://github.com/nxrymm/Food-Ordering-System/assets/164466808/b6bc036c-c916-4122-a689-95f4b47e8f96)
+![Screenshot (67)](https://github.com/nxrymm/Food-Ordering-System/assets/164466808/39f3bdcf-6289-4b49-99fc-c29f50972dba)
+
 Click "SUBMIT ORDER" to place your order.
+![Screenshot (68)](https://github.com/nxrymm/Food-Ordering-System/assets/164466808/8b12a470-5774-4855-b9fc-5c0eddc1c5d6)
+![Screenshot (69)](https://github.com/nxrymm/Food-Ordering-System/assets/164466808/66466306-e76b-45d0-b934-566d5f0e2801)
+![Screenshot (70)](https://github.com/nxrymm/Food-Ordering-System/assets/164466808/79852312-c00f-4ff8-926a-2a48c71e2d91)
+
 
 # Code Overview
 Main Class: FoodOrderingSystem
