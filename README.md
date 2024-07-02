@@ -1,4 +1,4 @@
-![Screenshot (61)](https://github.com/nxrymm/Food-Ordering-System/assets/164466808/4b2224f0-d23a-4ea8-8021-1156cde9c27c)# Food-Ordering-System
+# Food-Ordering-System
 This repository contains the source code for the FoodOrderingSystem, a Java-based GUI application that allows users to order food, drinks, and desserts from a menu. The application provides a user-friendly interface for selecting items, viewing the order summary, and placing the order.
 
 # Features
