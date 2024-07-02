@@ -45,7 +45,7 @@ cd FoodOrderingSystem
 ![Screenshot (64)](https://github.com/nxrymm/Food-Ordering-System/assets/164466808/7d644781-a4ee-4919-95ea-344862bb43a2)
 ![Screenshot (65)](https://github.com/nxrymm/Food-Ordering-System/assets/164466808/adce732d-dbf3-4716-90ac-7303e28a93de)
 
-4. Complete the Order Form:
+3. Complete the Order Form:
 • Fill in your name, contact number, and address.
 ![Screenshot (66)](https://github.com/nxrymm/Food-Ordering-System/assets/164466808/b6bc036c-c916-4122-a689-95f4b47e8f96)
 ![Screenshot (67)](https://github.com/nxrymm/Food-Ordering-System/assets/164466808/39f3bdcf-6289-4b49-99fc-c29f50972dba)
