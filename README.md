@@ -70,6 +70,14 @@ cd FoodOrderingSystem
     • updateOrderSummary(): Updates the order summary area with selected items.
     • clearAllOrders(): Clears all selected items from the order.
     • placeOrder(): Validates and submits the order.
+    
+# Group 1
+MEMBERS:
+Fulgencio, Hercie M.
+Gloria, Nicole Rhyme V.
+Mendola, Jana Dee N.
+Omison, Jamel D.
+Tamio, Riza Mae G.
 
 # Group Documentaion
 ![Screenshot_2024-07-02-22-51-14-548_com discord](https://github.com/nxrymm/Food-Ordering-System/assets/164466808/97d63ce3-a558-417d-a87c-30127c72a927)
